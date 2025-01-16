@@ -1,1 +1,5 @@
-# plantdiseasedetection
+The Plant Disease Detection System is a cutting-edge application powered by AI, aimed at helping farmers, gardeners, and agricultural experts identify plant diseases by analyzing leaf images. By utilizing deep learning and computer vision technologies, this system seeks to enhance sustainable agriculture by delivering quick and precise disease diagnostics, ultimately aiding in the prevention of crop losses and boosting yields.
+The system employs a pre-trained Convolutional Neural Network (CNN) model developed with TensorFlow/Keras, which can accurately identify a wide range of plant diseases.
+The model is trained to recognize and classify 38 different plant diseases, as well as healthy conditions, across various crops including apples, grapes, tomatoes, potatoes, and more.
+Developed using Streamlit, the platform offers an intuitive and straightforward interface where users can upload images of plant leaves and receive immediate feedback on possible diseases.
+Uploaded images are automatically resized, normalized, and preprocessed to ensure they are compatible with the model, thereby improving prediction accurac
